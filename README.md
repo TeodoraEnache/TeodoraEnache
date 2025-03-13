@@ -1,4 +1,4 @@
-# TeodoraEnache
+# Teodora Enache
  ## ✨🌿⚙️ About_Me
  <br>🔀🕸️ I’m currently learning about Neural-Fuzzy Systems<br>
  <br> 🚀🌟 My goal is to bridge the gap between intelligent algorithms and efficient circuit design, creating innovative solutions for the future of electronics<br>
