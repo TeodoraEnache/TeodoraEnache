@@ -1,5 +1,5 @@
 # TeodoraEnache
- # ✨🌿⚙️ About_Me
+ ## ✨🌿⚙️ About_Me
  <br>🔀🕸️ I’m currently learning about Neural-Fuzzy Systems<br>
  <br> 🚀🌟 My goal is to bridge the gap between intelligent algorithms and efficient circuit design, creating innovative solutions for the future of electronics<br>
  <br>🧠🌌I’m focusing on projects that integrate AI with signal processing and hardware optimization<br>
@@ -24,4 +24,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraEnache&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=TeodoraEnache&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
